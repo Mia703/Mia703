@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 _Pronouns: She/her/hers_
 
-I am a computer science student and aspiring web developer 👩‍💻. I am obsessed with design and user interaction, so I create web sites and challenge myself with projects from [FrontEnd Mentor](https://www.frontendmentor.io/home).
+I am an ICT master's student and aspiring web developer 👩‍💻. I am obsessed with design and user interaction, so I create websites and challenge myself with inspiring projects.
 
 <div id="badges">
   
