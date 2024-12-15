@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 _Pronouns: She/her/hers_
 
-I am an ICT master's student and aspiring web developer 👩‍💻. I am obsessed with design and user interaction, so I create websites and challenge myself with inspiring projects.
+I'm a creative professional with a mix of studio arts, computer science, and web design 🔥. I have dual degrees from Agnes Scott College and Emory University and a Master’s in ICT/Web Design from the University of Denver. I’m also passionate about accessible and responsive design 🌐. Outside of work, I love photography and exploring new places ✈️📸.
+
+Currently, I'm looking for front-end web development roles to combine my creativity, tech skills, and love for accessible design. Feel free to check out my git repos to see what I'm working on next!
 
 <div id="badges">
   
